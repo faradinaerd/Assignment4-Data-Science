@@ -60,7 +60,7 @@ print(datasummary)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
-# The mean, median, and minimum value in variable growth shows that the group "equal to 0" have bigger number than in the group "more than 0". There is also a value with a negative sign in the group "more than 0". The number of value in variable rgdp60 is significantly way bigger than the value in variable growth.
+#Group with growth equal to 0: The mean growth is 2.46, and the median growth is 2.29. This suggests that, the group with growth equal to 0 has a moderate positive growth rate, as the mean is slightly higher than the median. Group with growth more than 0: The mean growth is 1.68, and the median growth is 1.92. This indicates that, the group with growth more than 0 has a slightly lower growth rate compared to the group with growth equal to 0, as the mean and median values are lower.
 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
